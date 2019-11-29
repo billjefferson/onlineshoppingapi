@@ -1,0 +1,6 @@
+21/11/2019 2:29:51 PM	Procedure or function 'sp_AddErrorLogs' expects parameter '@ErroMmsg', which was not supplied.
+21/11/2019 2:30:11 PM	Procedure or function 'sp_AddErrorLogs' expects parameter '@ErroMmsg', which was not supplied.
+21/11/2019 2:31:43 PM	Procedure or function 'sp_AddErrorLogs' expects parameter '@ErrorMmsg', which was not supplied.
+21/11/2019 2:32:03 PM	Invalid object name 'Errors.ErrorLogs'.
+21/11/2019 2:37:25 PM	Cannot insert the value NULL into column 'Id', table 'onlineshopping.Errors.ErrorLogs'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
