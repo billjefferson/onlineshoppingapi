@@ -1,0 +1,5 @@
+23/02/2020 3:55:51 PM	A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+23/02/2020 4:06:06 PM	Login failed for user 'sa'.
+23/02/2020 4:06:15 PM	Login failed for user 'sa'.
+23/02/2020 4:07:16 PM	Login failed for user 'sa'.
+23/02/2020 4:08:01 PM	Login failed for user 'sa'.

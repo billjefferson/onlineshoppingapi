@@ -13,7 +13,7 @@ namespace onlineshopping.Controllers
 {
     public class ProductController : ApiController
     {
-        [EnableCors(origins: "*", headers: "*", methods: "*")]
+        //[EnableCors(origins: "*", headers: "*", methods: "*")]
         [Route("api/customer/getproduct")]
         [HttpPost]
         public HttpResponseMessage GetProducts(ProductParam productparam)

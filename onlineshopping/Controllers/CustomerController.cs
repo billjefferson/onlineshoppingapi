@@ -13,7 +13,7 @@ namespace onlineshopping.Controllers
 {
     public class CustomerController : ApiController
     {
-        [EnableCors(origins: "*", headers: "*", methods: "*")]
+        //[EnableCors(origins: "*", headers: "*", methods: "*")]
         [Route("api/customer/login")]
         [HttpPost]
         public HttpResponseMessage LogInUser(LogIn customer) {
